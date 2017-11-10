@@ -16,8 +16,11 @@ header nav {
 }
 
 header nav ul {
-  padding: 0;
   margin: 40px 0 0 0;
+}
+
+nav ul {
+  padding: 0px;
 }
 
 nav ul li {
